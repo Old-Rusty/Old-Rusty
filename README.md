@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I'm Fanxiang Meng
+A Junior Data Analyst.
+---
+
 
 <!--
 **Old-Rusty/Old-Rusty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
