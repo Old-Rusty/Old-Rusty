@@ -25,7 +25,7 @@ Explored purchasing patterns and customer behaviour to identify sales trends.
 
 #### [Purranormal – Hackathon Project](https://github.com/hannahro15/CI-Halloween-Hackathon-25)
 Collaborative prototype platform for themed cat adoption.  
-*2nd place – Code Institute Halloween Hackathon 2025*
+*2nd place – Code Institute Halloween Hackathon 2025* <br>
 *Skills:* Python, Django, Heroku, PostgreSQL  
 
 <!--
